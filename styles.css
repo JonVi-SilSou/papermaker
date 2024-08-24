@@ -1,0 +1,92 @@
+body {
+    background-color: firebrick;
+    color: white;
+}
+header{
+    padding: 5px;
+    font-size: 30px;
+    font-family: "Peralta", serif;
+    
+}
+h1{
+    color: firebrick;
+}
+.destaque{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: white;
+}
+.destaque img{
+    margin-right: 20px;
+    height: 250px;
+}
+
+.basico h2 {
+    background-color: darkred;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.basico div{
+    display: flex;
+    padding: 20px;
+    padding-top: 10px;
+    background-color: darkred;
+    overflow-x: auto;
+    gap: 15px;
+}
+.basico img{
+    height: 150px;
+    opacity: 0.5;
+}
+.basico img:hover{
+    opacity: 1;
+    border: dashed white 2px;
+}
+
+.complexo h2 {
+    background-color: darkred;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.complexo div{
+    display: flex;
+    padding: 20px;
+    padding-top: 10px;
+    background-color: darkred;
+    overflow-x: auto;
+    gap: 15px;
+}
+.complexo img{
+    height: 150px;
+    opacity: 0.5;
+}
+.complexo img:hover{
+    opacity: 1;
+    border: dashed white 2px;
+}
+
+.avião h2 {
+    background-color: darkred;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.avião div{
+    display: flex;
+    padding: 20px;
+    padding-top: 10px;
+    background-color: darkred;
+    overflow-x: auto;
+    gap: 15px;
+}
+.avião img{
+    height: 150px;
+    opacity: 0.5;
+}
+.avião img:hover{
+    opacity: 1;
+    border: dashed white 2px;
+}
